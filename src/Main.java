@@ -1,3 +1,4 @@
+//10 ДЗ
 public class Main {
     public static void main(String[] args) {
         Autor autorOne = new Autor("Кэти", "Сьерра");
